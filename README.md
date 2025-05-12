@@ -30,13 +30,12 @@ A cross-platform Flutter application (Web & Mobile) to search and track weather 
 
 ## 📷 Screenshots
 
-> _Add screenshots for mobile and web here._
-
 ### 📱 Mobile UI  
-_👉 Add mobile UI images here_
+![CleanShot 2025-05-12 at 13 25 28@2x](https://github.com/user-attachments/assets/2ab51f6b-ed48-4dde-815f-6d9fdc5ac422)
 
 ### 💻 Web UI  
-_👉 Add web UI images here_
+![CleanShot 2025-05-12 at 13 26 58@2x](https://github.com/user-attachments/assets/18eb8b3f-df8b-4fd7-b440-be09a665b05c)
+
 
 ---
 
