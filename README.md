@@ -24,7 +24,6 @@ A cross-platform Flutter application (Web & Mobile) to search and track weather 
 
 - ☁️ **Flutter Web Deployment**
   - **Deployed using Firebase Hosting.**
-  - Supports **Cloud Functions** for backend logic like email sending.
 
 ---
 
@@ -47,16 +46,7 @@ A cross-platform Flutter application (Web & Mobile) to search and track weather 
 - **BLoC** – State management using `flutter_bloc`
 - **Shared Preferences** – To store weather history locally
 - **SMTP (mailer)** – For email communication
-- **Firebase Cloud Functions** – For secure email sending on the web
-- **WeatherAPI** – To fetch weather data: [https://www.weatherapi.com/](https://www.weatherapi.com/)
-
-### 📦 Dependencies
-
-```yaml
-dependencies:
-  cupertino_icons: ^1.0.8
-  mailer: ^6.0.1
-  http: ^1.4.0
-  shared_preferences: ^2.5.3
-  geolocator: ^14.0.0
-  flutter_bloc: ^9.1.1
+- **WeatherAPI** – To fetch weather data: [WeatherAPI](https://www.weatherapi.com/)
+- **Firebase Hosting** – To host the web application
+- **Render.com** – To deploy and host the backend services
+- **Node.js with Express** – Backend for handling API requests and business logic
